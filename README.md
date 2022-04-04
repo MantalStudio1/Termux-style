@@ -1,9 +1,3 @@
-# Termux-ohmyzsh
-
-
-# Termux-ohmyzsh
-
-A fork from [oh-my-termux](https://github.com/4679/oh-my-termux). It makes the app more colorful.
 
 Termux-ohmyzsh implements oh-my-zsh and [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) on your Termux app, as well as some color schemes (most are from [Gogh](https://github.com/Mayccoll/Gogh)), and some Powerline fonts (ported from [powerline/fonts](https://github.com/powerline/fonts)). Default set is agnoster for oh-my-zsh, Tango for color scheme, and Ubuntu font.
 
